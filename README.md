@@ -7,6 +7,10 @@ This project is designed to impress both recruiters and engineering teams with:
 - production-style architecture,
 - and a custom in-browser coding lab with live insights.
 
+## Live Project
+
+- https://takeuforward-org.vercel.app/
+
 ## Why This Project Stands Out
 
 - Interactive Code Lab with a real editor feel (line numbers, syntax highlighting, run output, status bar).
@@ -115,15 +119,6 @@ src/
 ```bash
 npm install
 ```
-
-### Run Development Server
-
-```bash
-npm run dev
-```
-
-Open in browser:
-- http://localhost:5173/
 
 ### Production Build
 
